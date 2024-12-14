@@ -46,7 +46,6 @@ Results That Speak Volumes: Improved customer engagement strategies and streamli
 
 🗣️ **Fostering Data Literacy Across Teams**  
 I'm passionate about sharing my love for data with others! Throughout my career, I've actively sought opportunities to cultivate data literacy and empower teams to embrace data-driven decision-making.  
-- **Training & Mentorship**: Designed and delivered training programs for teams on data analysis and visualization techniques.  
 - **Unlocking Insights, Driving Action**: Transformed complex data into clear reports that informed strategic decisions and improved business outcomes.
 
 ---
@@ -62,7 +61,7 @@ I'm passionate about sharing my love for data with others! Throughout my career,
 
 🎨 **Beyond the Data Matrix**<br>
 When I’m not immersed in the digital realm, you can find me:  
-- 🎨 Unleashing my inner artist through painting — because data visualization isn't the only canvas that calls to me!  
+- 📸 Unleashing my inner artist through photography — because data visualization isn't the only canvas that calls to me! 
 - 📺 Getting lost in captivating TV shows and movies — every data scientist needs a little downtime to recharge!  
 - ✈️ Exploring new cultures and destinations — the world is a vast and fascinating dataset just waiting to be explored!
 
