@@ -14,7 +14,7 @@ I thrive on uncovering hidden patterns, developing predictive models, and weavin
 <br>
 🌐 Check out my work: https://github.com/tanishsaajan
 <br>
-🔗 Portfolio: [https://public.tableau.com/views/MotorVehicleFraudAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://tanishsaajan.my.canva.site/)
+🔗 Portfolio: https://tanishsaajan.my.canva.site/
 
 ---
 
